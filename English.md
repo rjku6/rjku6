@@ -10,4 +10,4 @@ You can contact me at the following page：
 | :--------- | :--: | -----------: |
 | Cheng Xi     |  2545722714  |     NB659666 |
 
->Chinese：[Click me to translate](链接)
+>Chinese：[Click me to translate](./README.md)
